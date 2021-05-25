@@ -1,2 +1,2 @@
 # Cyke
-Un site vitrine 
+Un site vitrine Bootstrap responsive
